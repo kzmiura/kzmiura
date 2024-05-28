@@ -1,6 +1,6 @@
 __Hello, world!__
 
-I'm a student in Infomation System Engineering Program in Tokyo metropolitan colleage of indutrial technology.
+I'm a student in Infomation Systems Engineering Program in Tokyo metropolitan colleage of indutrial technology.
 
 Used languages: Japanese, English(mechine translate)
 
